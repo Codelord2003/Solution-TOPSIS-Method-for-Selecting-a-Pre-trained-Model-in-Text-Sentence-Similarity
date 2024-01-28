@@ -1,2 +1,4 @@
 # Solution-TOPSIS-Method-for-Selecting-a-Pre-trained-Model-in-Text-Sentence-Similarity
-Utilize the TOPSIS method to select the optimal pre-trained model for text sentence similarity based on its performance criteria. The approach involves assessing and ranking models to facilitate the decision-making process.
+In addressing the assignment, I will employ the TOPSIS method to choose the optimal pre-trained model for text sentence similarity using the TREC9 dataset. This dataset consists of 386 sentence pairs from original and paraphrased questions, with a vocabulary of 252 unique words (84.5% uniqueness), and an average sentence length of 39.35 characters. The dataset complexity is evident in its diverse paraphrasing categories. The evaluation involves 14 models assessed on five parameters: Precision, Recall, Rejection Rate, and Accuracy.
+![Uploading image.png…]()
+
